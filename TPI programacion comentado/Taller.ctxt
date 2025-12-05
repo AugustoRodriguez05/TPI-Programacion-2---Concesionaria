@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Taller
+comment1.params=
+comment1.target=Taller()
+comment2.params=vehiculo
+comment2.target=void\ ingresarVehiculo(Vehiculo)
+comment3.params=
+comment3.target=void\ procesarSiguiente()
+comment4.params=
+comment4.target=int\ cantidadEnEspera()
+numComments=5

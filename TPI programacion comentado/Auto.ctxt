@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Auto
+comment1.params=
+comment1.target=Auto()
+comment2.params=marca\ modelo\ patente\ anio\ color\ precio\ condicion\ carroceria
+comment2.target=Auto(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ double,\ Condicion,\ TipoCarroceria)
+comment3.params=
+comment3.target=TipoCarroceria\ getCarroceria()
+comment4.params=carroceria
+comment4.target=void\ setCarroceria(TipoCarroceria)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

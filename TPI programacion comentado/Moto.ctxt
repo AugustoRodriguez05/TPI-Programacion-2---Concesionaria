@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Moto
+comment1.params=
+comment1.target=Moto()
+comment2.params=marca\ modelo\ patente\ anio\ color\ precio\ condicion\ estilo
+comment2.target=Moto(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ double,\ Condicion,\ EstiloMoto)
+comment3.params=
+comment3.target=EstiloMoto\ getEstilo()
+comment4.params=estilo
+comment4.target=void\ setEstilo(EstiloMoto)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

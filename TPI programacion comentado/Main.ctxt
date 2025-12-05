@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=c
+comment2.target=void\ eliminarVehiculoInteractivo(Concesionaria)
+comment3.params=c
+comment3.target=void\ agregarVehiculoInteractivo(Concesionaria)
+comment4.params=c\ condicion
+comment4.target=Auto\ crearAuto(Concesionaria,\ Condicion)
+comment5.params=c\ condicion
+comment5.target=Moto\ crearMoto(Concesionaria,\ Condicion)
+numComments=6
